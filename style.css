@@ -76,7 +76,10 @@ font-weight: 400;
 background-color: rgb(59, 86, 87);
 border-radius: 3cm;
 margin: 15px;
-width: 30%;
+width: 40%;
+margin-left: 100px;
+padding: 10px ;
+text-decoration: none;
 }
 a{
   font-size: 20px;
@@ -95,11 +98,10 @@ a{
 }
 .porshes-list{
   display: flex;
-  flex-direction: row;
   list-style: none;
 padding-bottom: 30px;
 padding-top: 60px;
-justify-content: space-between;
+justify-content: space-around;
 }
 .social-media-list{
   display: flex;
